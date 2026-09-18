@@ -1,6 +1,6 @@
 # 📉 E-commerce Data Wrangling & UX Friction Analysis
 
-[![Open In Colab](https://colab.research.google.com/drive/1tsS2Pprx3IYwgFPk9UlqZOVQO1alyJGY#scrollTo=J4Jl2bs75YmI)
+[![Open In Colab]()
 
 ## 📌 Introducción y Enfoque UX
 En el diseño de producto digital, las decisiones estratégicas no pueden basarse únicamente en la intuición visual. Este proyecto demuestra la capacidad de extraer, limpiar y analizar **datos cuantitativos de comportamiento (User Analytics)** para identificar cuellos de botella en la experiencia de usuario de una tienda online.
@@ -17,7 +17,7 @@ El cuaderno de Google Colab simula un entorno real de investigación cuali-cuant
 ## 📸 Descubrimientos Clave (Insights Visuales)
 > ⚠️ **Nota de Portafolio:** Reemplaza la imagen de abajo con la captura de pantalla real de los gráficos generados por tu Colab (la gráfica de barras y el gráfico de dispersión).
 
-![Dashboard de Analítica UX](<img width="1384" height="584" alt="image" src="https://github.com/user-attachments/assets/93259ed7-e3e2-4113-86dd-010525bfa7a4" />)
+![Dashboard de Analítica UX]()
 )
 
 ### 🚨 Diagnóstico de UX Research:
