@@ -18,7 +18,7 @@ El cuaderno de Google Colab simula un entorno real de investigación cuali-cuant
 ## 📸 Descubrimientos Clave (Insights Visuales)
 > ⚠️ **Nota de Portafolio:** Reemplaza la imagen de abajo con la captura de pantalla real de los gráficos generados por tu Colab (la gráfica de barras y el gráfico de dispersión).
 
-![Dashboard de Analítica UX]()
+![Dashboard de Analítica UX](<img width="1384" height="584" alt="download" src="https://github.com/user-attachments/assets/8beeb621-6a5f-4647-a66c-4a2c7cfd7a7c" />)
 )
 
 ### 🚨 Diagnóstico de UX Research:
