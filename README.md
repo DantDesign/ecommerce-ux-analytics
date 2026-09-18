@@ -1,4 +1,4 @@
-# 📉 E-commerce Data Wrangling & UX Friction Analysis
+# 📉 Análisis de fricción en la experiencia de usuario (UX) del E-commerce combinada con limpieza de datos
 
 [![Open In Colab]()
 
