@@ -1,3 +1,4 @@
+<img width="1384" height="584" alt="download" src="https://github.com/user-attachments/assets/8beeb621-6a5f-4647-a66c-4a2c7cfd7a7c" />
 # 📉 Análisis de fricción en la experiencia de usuario (UX) del E-commerce combinada con limpieza de datos
 
 [![Open In Colab]()
