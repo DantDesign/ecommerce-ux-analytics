@@ -1,6 +1,6 @@
 # 📉 Análisis de fricción en la experiencia de usuario (UX) del E-commerce combinada con limpieza de datos
 
-[![Open In Colab]()
+[![Open In Colab](https://colab.research.google.com/drive/1tsS2Pprx3IYwgFPk9UlqZOVQO1alyJGY?usp=sharing)
 
 ## 📌 Introducción y Enfoque UX
 En el diseño de producto digital, las decisiones estratégicas no pueden basarse únicamente en la intuición visual. Este proyecto demuestra la capacidad de extraer, limpiar y analizar **datos cuantitativos de comportamiento (User Analytics)** para identificar cuellos de botella en la experiencia de usuario de una tienda online.
@@ -22,7 +22,7 @@ El cuaderno de Google Colab simula un entorno real de investigación cuali-cuant
 
 ### 🚨 Diagnóstico de UX Research:
 * **Fricción Crítica en Mobile:** Los usuarios móviles experimentan una tasa de abandono drásticamente superior. El gráfico de dispersión revela un patrón de **"Fatiga por Clicks"**: a mayor número de interacciones obligadas en pantallas pequeñas, el tiempo se dispara y el carrito se abandona.
-* **Acción de Diseño (Next Steps):** Rediseñar el flujo de checkout móvil eliminando campos innecesarios de entrada de texto e integrando métodos de pago rápidos (como Apple Pay o Mercado Pago) para reducir drásticamente la carga cognitiva y el conteo de clicks.
+* **Acción de Diseño (Next Steps):** Rediseñar el flujo de checkout móvil eliminando campos innecesarios de entrada de texto e integrando métodos de pago rápidos (como Mercado Pago) para reducir drásticamente la carga cognitiva y el conteo de clicks.
 
 ## 🧰 Stack Técnico Usado
 * **Pandas:** Estructuración y curación del set de datos.
